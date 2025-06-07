@@ -1,4 +1,3 @@
-import easyocr
 import numpy as np
 
 def ocr_plate_number(image_pil):
